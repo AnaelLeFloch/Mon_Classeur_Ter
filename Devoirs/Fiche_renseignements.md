@@ -6,10 +6,22 @@
 
 - Classe : TG1
 
-## Projet d'orientation :
+## Projet d'orientation (Partie métier) :
 
 - Métier : Infographiste 
 
 - Domaine : Graphisme
 
-- Écoles : Design Nantes Atlantique , Laval ; I.U.T de Lannion
+## Projet d'orientation (Partie Formation) :
+
+### 1- BUT MMI : Création Numérique
+
+- IUT de Laval , Laval 
+
+- IUT GRAND OUEST NORMANDIE , Saint-Lô
+
+- I.U.T de Lannion (mais pas la spécialité Création Numérique)
+
+### 2- DN MADE : Création Numérique
+
+- Design Nantes Atlantique , Laval
