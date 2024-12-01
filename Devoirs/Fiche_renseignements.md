@@ -25,3 +25,13 @@
 ### 2- DN MADE : Création Numérique
 
 - Design Nantes Atlantique , Laval
+
+- Campus Sainte Marguerite , Tours
+
+### 3- Licence informatique 
+
+-
+
+### 4- Licence information et communication - Parcous Infographie et médias interactifs
+
+-
