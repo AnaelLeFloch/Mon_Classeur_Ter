@@ -28,10 +28,12 @@
 
 - Campus Sainte Marguerite , Tours
 
-### 3- Licence informatique 
+### 3- Licence information et communication - Parcous Infographie et médias interactifs
 
--
+- Facultés libres de l'ouest - UCO , Laval
 
-### 4- Licence information et communication - Parcous Infographie et médias interactifs
+### 4- BTS - Services - Etudes de réalisation d'un projet de communication
 
--
+- Lycée professionnel Coetlogon , Rennes
+
+- Lycée professionnel Léonard de Vinci , Mayenne
