@@ -24,7 +24,15 @@
 
 - IUT GRAND OUEST NORMANDIE , Saint-Lô
 
-- I.U.T de Lannion (mais pas la spécialité Création Numérique)
+- IUT de Lannion (mais pas le parcours Création Numérique)
+
+- IUT de Blois
+
+- IUT de Angoulême
+
+- IUT du Limousin , Limoges
+
+- I.U.T De Rouen - Site d'Elbeuf
 
 ### 2- DN MADE : Création Numérique
 
