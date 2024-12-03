@@ -6,6 +6,10 @@
 
 - Classe : TG1
 
+## Bilan T1 : 
+
+-Début de trismestre désatreux , mais j'ai réussi à remonter la pente, même si il reste la SES et l'espagnol à améliorer.
+
 ## Projet d'orientation (Partie métier) :
 
 - Métier : Infographiste 
@@ -28,12 +32,12 @@
 
 - Campus Sainte Marguerite , Tours
 
-### 3- Licence information et communication - Parcous Infographie et médias interactifs
-
-- Facultés libres de l'ouest - UCO , Laval
-
-### 4- BTS - Services - Etudes de réalisation d'un projet de communication
+### 3- BTS - Services - Etudes de réalisation d'un projet de communication
 
 - Lycée professionnel Coetlogon , Rennes
 
 - Lycée professionnel Léonard de Vinci , Mayenne
+
+### 4- Licence information et communication - Parcous Infographie et médias interactifs
+
+-Faclultés libres de l'ouest - UCO , Laval
