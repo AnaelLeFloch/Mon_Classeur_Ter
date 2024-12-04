@@ -8,7 +8,7 @@
 
 ## Bilan T1 : 
 
--Début de trismestre désatreux , mais j'ai réussi à remonter la pente, même si il reste la SES et l'espagnol à améliorer.
+- Début de trismestre désatreux , mais j'ai réussi à remonter la pente, même si il reste la SES et l'espagnol à améliorer.
 
 ## Projet d'orientation (Partie métier) :
 
@@ -48,4 +48,4 @@
 
 ### 4- Licence information et communication - Parcous Infographie et médias interactifs
 
--Faclultés libres de l'ouest - UCO , Laval
+- Faclultés libres de l'ouest - UCO , Laval
