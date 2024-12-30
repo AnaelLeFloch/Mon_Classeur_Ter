@@ -20,9 +20,9 @@
 
 ### 1- BUT MMI : Création Numérique
 
-- IUT de Laval , Laval 
+- IUT de Laval , Laval (portes ouvertes le 25/01/2025 de 8h à 16h )
 
-- IUT GRAND OUEST NORMANDIE , Saint-Lô
+- IUT GRAND OUEST NORMANDIE , Saint-Lô (portes ouvertes le 01/03/2025 de 9h à 17h )
 
 - IUT de Lannion (mais pas le parcours Création Numérique)
 
