@@ -24,21 +24,21 @@
 
 - IUT GRAND OUEST NORMANDIE , Saint-Lô (portes ouvertes le 01/03/2025 de 9h à 17h )
 
-- IUT de Lannion (mais pas le parcours Création Numérique)
+- IUT de Lannion (mais pas le parcours Création Numérique) (portes ouvertes le 08/03/2025)
 
-- IUT de Blois
+- IUT de Blois (portes ouvertes le 01/02/2025 de 9h à 17h)
 
-- IUT de Angoulême
+- IUT de Angoulême(portes ouvertes le 29/01/2025 de 14h à 17h)
 
-- IUT du Limousin , Limoges
+- IUT du Limousin , Limoges (portes ouvertes le 22/02/2025 de 9h à 13h)
 
-- I.U.T De Rouen - Site d'Elbeuf
+- I.U.T De Rouen - Site d'Elbeuf(portes ouvertes le 25/01/2025 de 9h30 à 17h)
 
 ### 2- DN MADE : Création Numérique
 
-- Design Nantes Atlantique , Laval
+- Design Nantes Atlantique , Laval (portes ouvertes le 25/01/2025 de 10h à 16h30)
 
-- Campus Sainte Marguerite , Tours
+- Campus Sainte Marguerite , Tours (portes ouvertes le 25/01/2025 de 9h30 à 12h30)
 
 ### 3- BTS - Services - Etudes de réalisation d'un projet de communication
 
@@ -48,4 +48,4 @@
 
 ### 4- Licence information et communication - Parcous Infographie et médias interactifs
 
-- Faclultés libres de l'ouest - UCO , Laval
+- Facultés libres de l'ouest - UCO , Laval
