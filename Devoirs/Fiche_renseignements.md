@@ -32,20 +32,20 @@
 
 - IUT du Limousin , Limoges (portes ouvertes le 22/02/2025 de 9h à 13h)
 
-- I.U.T De Rouen - Site d'Elbeuf(portes ouvertes le 25/01/2025 de 9h30 à 17h)
+- I.U.T De Rouen - Site d'Elbeuf (portes ouvertes le 25/01/2025 de 9h30 à 17h)
 
 ### 2- DN MADE : Création Numérique
 
-- Design Nantes Atlantique , Laval (portes ouvertes le 25/01/2025 de 10h à 16h30)
-
 - Campus Sainte Marguerite , Tours (portes ouvertes le 25/01/2025 de 9h30 à 12h30)
+
+- Design Nantes Atlantique , Laval (portes ouvertes le 25/01/2025 de 10h à 16h30) (plus proche que Saint marguerite mais pas le bon parcours)
 
 ### 3- BTS - Services - Etudes de réalisation d'un projet de communication
 
-- Lycée professionnel Coetlogon , Rennes
+- Lycée professionnel Coetlogon , Rennes (portes ouvertes du 07/03/2025 au 08/03/2025 de 16:30 à 12:00)
 
-- Lycée professionnel Léonard de Vinci , Mayenne
+- Lycée professionnel Léonard de Vinci , Mayenne (portes ouvertes)
 
 ### 4- Licence information et communication - Parcous Infographie et médias interactifs
 
-- Facultés libres de l'ouest - UCO , Laval
+- Facultés libres de l'ouest - UCO , Laval (portes ouvertes le 25/01/2025 de 09:00 à 16:00,le 28/02/2025 de 17:00 à 19:00, et le 01/03/2025 de 09:00 à 12:00 )
