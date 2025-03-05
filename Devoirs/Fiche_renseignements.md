@@ -10,6 +10,14 @@
 
 - Début de trismestre désatreux , mais j'ai réussi à remonter la pente, même si il reste la SES et l'espagnol à améliorer.
 
+## Bilan T2 :
+
+- mieux que le premier trimestre, mais reste améliorer l'anglais, l'espagnol et la SES.
+
+## Engagement Citoyen :
+
+- Fête de la science
+
 ## Projet d'orientation (Partie métier) :
 
 - Métier : Infographiste 
